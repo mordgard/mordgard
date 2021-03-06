@@ -9,10 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Philadelphia's Magic Gardens. This place was so cool!](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg/1200px-Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg.png)
-
-
-
 Skills:
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
@@ -29,6 +25,8 @@ Skills:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mordgard)  
 
 ![Profile views](https://gpvc.arturio.dev/mordgard)  
+
+![ЖЫЫВЕЕЕЕ БЕЛАААРУУУСЬ!](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg/1200px-Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg.png)
 <!--
 **mordgard/mordgard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
