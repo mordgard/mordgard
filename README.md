@@ -1,5 +1,8 @@
 ### Hi there 👋, my name is Mikhail
 
+Skills:
+- <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mordgard)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mordgard)](https://github.com/anuraghazra/github-readme-stats)
