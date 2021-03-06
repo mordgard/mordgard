@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Mikhail
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mordgard)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=mordgard)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mordgard)](https://github.com/anuraghazra/github-readme-stats)
