@@ -1,9 +1,5 @@
 ### Hi there 👋, my name is Mikhail
 
-Skills: React
-
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mordgard)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mordgard)](https://github.com/ryo-ma/github-profile-trophy)
