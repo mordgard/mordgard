@@ -20,8 +20,6 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mordgard&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mordgard)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mordgard)  
 
 ![Profile views](https://gpvc.arturio.dev/mordgard)  
