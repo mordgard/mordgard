@@ -26,7 +26,6 @@ Skills:
 
 ![Profile views](https://gpvc.arturio.dev/mordgard)  
 
-![ЖЫЫВЕЕЕЕ БЕЛАААРУУУСЬ!](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg/1200px-Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg.png)
 <!--
 **mordgard/mordgard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
